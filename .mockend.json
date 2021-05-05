@@ -2,11 +2,6 @@
   "Car": {
     "model": "string",
     "make": "string",
-    "type": "Type",
     "range": "int"
-  },
-  "Type": {
-    "name": "string",
-    "cars": "Car[]"
-  },
+  }
 }
