@@ -2,6 +2,6 @@
   "Car": {
     "model": "string",
     "make": "string",
-    "type": "string
+    "type": "string"
   }
 }
