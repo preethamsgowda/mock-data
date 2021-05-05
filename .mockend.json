@@ -1,7 +1,7 @@
 {
   "Car": {
     "model": "string",
-    "make": "Make",
-  },
-  "Make": ["alpha", "beta", "gamma"]
+    "make": "string",
+    "type": "string
+  }
 }
