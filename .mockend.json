@@ -1,7 +1,9 @@
 {
-  "Car": {
-    "model": "string",
-    "make": "string",
-    "range": "int"
+  "Item": {
+    "code": "string",
+    "name": "string",
+    "description": "string",
+    "quantity": "int",
+    "createdAt": "date",
   }
 }
