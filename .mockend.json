@@ -1,13 +1,7 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "Car": {
+    "model": "string",
+    "make": "Make",
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
+  "Make": ["alpha", "beta", "gamma"]
 }
