@@ -6,6 +6,7 @@
     "range": "int"
   },
   "Type": {
-    "name": "string"
+    "name": "string",
+    "cars": "Car[]"
   },
 }
