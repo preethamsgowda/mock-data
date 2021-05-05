@@ -4,6 +4,6 @@
     "name": "string",
     "description": "string",
     "quantity": "int",
-    "createdAt": "date",
+    "createdAt": "date"
   }
 }
